@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" stroke="gray">
+  <g stroke-width="4" fill="#FFF">
+    <circle cx="180" cy="180" r="176"/>
+    <circle cx="180" cy="180" r="132"/>
+    <circle cx="180" cy="180" r="88"/>
+    <circle cx="180" cy="180" r="44"/>
+    <path d="m180,4v352m124-52-248-248m248,0-248,248m300-124H4"/>
+  </g>
+  <g opacity=".8">
+    <path fill="#44C" d="m180,180h36a36,36 0 0,0 0-10z"/>
+    <path fill="#BC3" d="m180,180 68-86a110,110 0 0,0-30-16z"/>
+    <path fill="#D93" d="m180,180-32-144a148,148 0 0,0-62,30z"/>
+    <path fill="#DB3" d="m180,180-116-56a130,130 0 0,0-10,78z"/>
+    <path fill="#3BB" d="m180,180-66,32a74,74 0 0,0 4,10z"/>
+    <path fill="#3C9" d="m180,180-20,90a92,92 0 0,0 36,0z"/>
+    <path fill="#D73" d="m180,180 92,116a148,148 0 0,0 24-24z"/>
+  </g>
+</svg>
